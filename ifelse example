@@ -1,0 +1,6 @@
+Age=int(input())
+Loan=int(input())
+if (Age>=18 or loan<=100000):
+   print("you are eloigible for loan")
+else:
+   print("you are not eligible")
